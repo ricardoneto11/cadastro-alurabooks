@@ -4,9 +4,9 @@
 
 <hr>
 
-<p align="center">Entender como funciona o JavaScript assíncrono
-Consumir a API do ViaCEP com o fetch API
-Conheçer as Promises e seus métodos
-Saber como utilizar async await para criar funções assíncronas
-Tratar possíveis erros de requisição retornados da API
+<p align="center">Entender como funciona o JavaScript assíncrono </br>
+Consumir a API do ViaCEP com o fetch API </br>
+Conheçer as Promises e seus métodos </br>
+Saber como utilizar async await para criar funções assíncronas </br>
+Tratar possíveis erros de requisição retornados da API </br>
 Aprender a tornar uma página de formulário estática em dinâmica</p>
